@@ -13,8 +13,9 @@
  * @param WP_Customize_Manager $wp_customize Theme Customizer object.
  */
 
+ //ryokan: REMOVED PRO OPTION FROM CUSTOMIZER
 // load upgrade to pro option
-require get_template_directory() . '/inc/customizer/upgrade-to-pro/class-customize.php';
+/* require get_template_directory() . '/inc/customizer/upgrade-to-pro/class-customize.php'; */
 
 function kids_education_customize_register( $wp_customize ) {
 	$options = kids_education_get_theme_options();
