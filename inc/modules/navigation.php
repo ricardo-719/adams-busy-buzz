@@ -41,7 +41,8 @@ if ( ! function_exists( 'kids_education_navigation' ) ) :
         		<div class="site-branding">
           		<?php if ( has_custom_logo() ) : ?>
 							<div class="site-logo">
-							<img class="site-logo-subtext" src="https://adamsbusybuzz.com/wp-content/uploads/2023/09/Adams-Font-Trans.png" alt="adams busy buzz">
+							<img class="site-logo-top-subtext" src="https://adamsbusybuzz.com/wp-content/uploads/2023/09/Adams-top-Font-Trans.png" alt="adams">
+							<img class="site-logo-bottom-subtext" src="https://adamsbusybuzz.com/wp-content/uploads/2023/09/Adams-bottom-Font-Trans.png" alt="busy buzz">
             		<a href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php echo get_custom_logo(); ?></a>
           		</div>
           		<?php endif; ?>

@@ -899,6 +899,7 @@ a:focus {
     transition: all 0.9s ease-in-out;
 }
 .site-logo {
+    position: relative;
     width: 200px;
     margin: 0 auto;
 }
@@ -5959,4 +5960,11 @@ nav.portfolio-filter ul li a,
 .read-more,
 #secondary li a, .site-footer .widget a {
   text-decoration: none;
+}
+
+.site-logo-bottom-subtext {
+    position: absolute;
+    top: 125px;
+    left: -20px;
+    max-width: 145px;
 }
