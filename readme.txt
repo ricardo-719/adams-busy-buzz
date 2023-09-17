@@ -1,6 +1,6 @@
-=== Kids Education ===
+=== Adam's Busy Buzz ===
 
-Contributors: themepalace
+Contributors: Ricky Ricardo
 Tags: custom-header, translation-ready, theme-options, custom-menu, post-formats, threaded-comments, right-sidebar, one-column
 Requires PHP: 5.6
 Requires at least: 4.7
@@ -11,84 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-Kids Education is an educational theme developed by Theme Palace. Kids Education is a multipurpose Wordpress Educational Theme suitable for Kindergartens, daycare, Primary Schools, Secondary Schools and High Schools. Kids Education Theme is also suitable for any educational activities and, with the colorful design, it is ideal for toys stores, activities related to children too. Kids Education can be adapted to any kind of industry – not only educational but also babysitting and summer camps. All pages are optimized in order to perform, in a simple and fast way. It comes with a wide variety of options so you can modify Styling, Featured Slider, Menus, Breadcrumb, Widgets and much more, directly from theme customizer. This theme is Woocommerce compatible and translation ready.
-
-Check out Theme Instructions at https://themepalace.com/theme-instructions/kids-education
-Support at https://themepalace.com/forum/kids-education/
-
-== Installation ==
-
-1. In your admin panel, go to Appearance > Themes and click the Add New button.
-2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
-3. Click Activate to use your new theme right away.
-
-== Copyright ==
-
-Kids Education WordPress Theme, Copyright @ Themepalace 
-Link: https://themepalace.com/downloads/kids-education
-
-Kids Education Theme bundles the following third-party resources:
-
-HTML5-Shiv is Licensed under the MIT and GPL licenses
-    https://code.google.com/p/html5shiv/
-
-Font Awesome 4.2.0 by @davegandy
-	License: http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
-	Source: http://fontawesome.io
-
-	fontawesome-webfont.woff, fontawesome-webfont.woff2, slick.ttf and slick.woff are licensed under Font Awesome 4.2.0 by @davegandy 
-	License: http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
-	Source: http://fontawesome.io
-
-sidr - v2.2.1 - 2016-02-17
-    Source: http://www.berriart.com/sidr/
-    License: Copyright (c) 2013-2016 Alberto Varela; Licensed MIT
-    License Url :https://github.com/artberri/sidr/blob/master/LICENSE
-
-Slick  Version - 1.6.0
-	Source: http://github.com/kenwheeler/slick
-	License: The MIT License (MIT) copyright (c) 2013-2016
-	license Url : https://github.com/kenwheeler/slick/blob/master/LICENSE
-
-Lightbox2 - 2.7.1
-	Source: http://lokeshdhakar.com/projects/lightbox2/
-	License: Lightbox2 is licensed under The MIT License.
-	license Url : http://www.lokeshdhakar.com/projects/lightbox2/#license
-
-Isotope - 3.0.1
-	source : http://isotope.metafizzy.co
-	License: Isotope is licensed under GPLv3 for open source use
-	Licenser Url: http://isotope.metafizzy.co/license.html
-
-imagesLoaded PACKAGED v4.1.1
-	Source: https://github.com/desandro/imagesloaded
-	License: MIT license.
-	License Url: https://desandro.mit-license.org/
-
-Match Height - 0.7.2
-	source : https://github.com/liabru/jquery-match-height
-	License: MIT
-	License Url: https://github.com/liabru/jquery-match-height/blob/master/LICENSE
-
-Breadcrumb Trail - 1.0.0
-	Source: https://github.com/matthieua/WOW
-	License: GNU General Public License, version 2
-	license Url : http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
-
-== Images Used ==
-	Header image 
-	https://pxhere.com/en/photo/773348
-
-	Image on Screenshot 
-	https://pxhere.com/en/photo/1074746
-
-	license source not mention for the images are custom images and are free to distribute.
-
-	Unless otherwise specified, all the theme files, scripts and images are licensed under GNU General Public License Version 3,
-	License: GNU General Public License v3 or later
-	License URI: http://www.gnu.org/licenses/gpl-3.0.html
-	Kids Education WordPress Theme, Copyright 2016 themepalace.com
-	Kids Education is distributed under the terms of the GNU General Public License v3 
+Theme suitable for Kindergartens, daycare, Primary Schools, Secondary Schools and High Schools. Kids Education Theme is also suitable for any educational activities and, with the colorful design, it is ideal for toys stores, activities related to children too. Kids Education can be adapted to any kind of industry – not only educational but also babysitting and summer camps. All pages are optimized in order to perform, in a simple and fast way. It comes with a wide variety of options so you can modify Styling, Featured Slider, Menus, Breadcrumb, Widgets and much more, directly from theme customizer. This theme is Woocommerce compatible and translation ready.
 
 == Frequently Asked Questions ==
 
@@ -108,7 +31,7 @@ Yes, Following plugins are supported by Kids Education theme.
 		WP Google Maps plugin is recommended to use google map inside theme.
 
 == How to add Map? ==
-Kids Education Pro theme supports WP Google Maps plugin. You can add shortcode using WP Google Maps widget or Place shortcode in any page or post you want to use.
+Pro theme supports WP Google Maps plugin. You can add shortcode using WP Google Maps widget or Place shortcode in any page or post you want to use.
 	
 	For more details Visit https://wordpress.org/plugins/wp-google-maps/faq/
 
