@@ -713,6 +713,11 @@ a:focus {
     position: fixed;
     background-color: transparent;
 }
+@media screen and (max-width: 992px) {
+    #masthead.fixed-header.is-sticky {
+        position: absolute;
+    }
+}
 .header-logo img {
     padding: 45px 30px;
 }
@@ -748,6 +753,12 @@ a:focus {
     position: relative;
     top: 30px;
     min-height: 155px;
+}
+@media screen and (max-width: 992px) {
+    .site-branding {
+        background-image: none;
+        top: 0px;
+    }
 }
 .is-sticky .site-branding {
 	min-height: 80px;
@@ -1135,7 +1146,7 @@ body.sidr-open {
 .menu-button,
 #sidr-right-top-button {
     position: absolute;
-    top: 7px;
+    top: 14px;
     left: 5px;
     background-color: #00C6E1;
     width: 35px;
@@ -1149,7 +1160,7 @@ body.sidr-open {
 }
 #sidr-right-top-button {
 	left: auto;
-	right: 5px;
+	right: 14px;
 }
 h1.sidr-class-site-title {
     box-shadow: none;
@@ -5526,9 +5537,12 @@ body.error404 .footer-divider {
 	}
 }
 @media screen and (max-width: 992px) {
-	#masthead {
+	/* #masthead {
 		display: none;
-	}
+	} */
+    #menu-main {
+        display: none;
+    }
 	article .entry-header, 
 	article .entry-content {
 	    text-align: left;
