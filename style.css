@@ -2108,7 +2108,7 @@ article .entry-header,
     padding-bottom: 15px;
     text-transform: capitalize;
 }
-.entry-title:after {
+/* .entry-title:after {
     content: "";
     width: 50px;
     height: 5px;
@@ -2119,7 +2119,7 @@ article .entry-header,
     right: 0;
     margin: auto;
     text-align: center;
-}
+} */
 .sub-title {
     margin: 0 auto;
     text-align: center;
@@ -3545,6 +3545,7 @@ span.tags-links {
     height: 100%;
     justify-self: center;
     min-width: 700px;
+    padding-top: 130px;
     /* vertical-align: middle; */
 }
 #header-image.no-banner-image {
