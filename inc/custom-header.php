@@ -57,7 +57,7 @@ if( !function_exists( 'kids_education_render_banner_section' ) ) :
 	?>
 	<section id="header-image" class="<?php echo esc_attr( $banner_image_class );?>">
 			<?php if ( $header_image ) : ?>
-				<img src="<?php echo esc_url( $header_image ); ?>" alt="<?php esc_attr_e( 'banner-image', 'kids-education' ); ?>">
+				<img src="https://adamsbusybuzz.com/wp-content/uploads/2023/09/heroProject.png" alt="Adams hero image">
      	<div class="black-overlay"></div>
 			<?php endif; // End header image check. ?>
       	<div class="container">
