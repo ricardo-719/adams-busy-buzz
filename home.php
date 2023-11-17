@@ -39,6 +39,24 @@ do_action( 'kids_education_page_section' ); ?>
             </ul>
         </nav><!-- .portfolio-filter -->
 
+        <div class="">
+          <h2>SITE UNDER CONSTRUCTION</h2>
+        </div>
+        <div id="contact">
+			<h2>Contact</h2>
+			<br>
+			<div class="contactContent">
+				<div class="contactInfo">
+					<p>If you have any questions, issues, or feedback regarding the plugin, feel free to contact us.</p>
+					<p>e-mail: ricardoricardof@outlook.com</p>
+					<address>UBON RATCHATHANI, THAILAND</address>
+				</div>
+				<div class="map">
+					<img src="https://imageio.forbes.com/specials-images/imageserve/902925766/wat-Sirindhorn-Wararam-Phu-Prao-temple-in-Ubon-Ratchathani--thailand/960x0.jpg?format=jpg&width=960"
+					alt="This is a map">
+				</div>
+			</div>
+		</div>
         <div id="two-column" class="blog-portfolio">
          <?php
             if ( have_posts() ) :

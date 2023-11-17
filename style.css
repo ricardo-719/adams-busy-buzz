@@ -5985,3 +5985,46 @@ nav.portfolio-filter ul li a,
     left: -20px;
     max-width: 145px;
 }
+
+#contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 90vh;
+}
+
+#contact h2 {
+    font-size: 2.7rem;
+}
+
+#contact .contactContent {
+    display: flex;
+    justify-content: space-between;
+    margin: 1% 5%;
+}
+
+#contact .contactContent .contactInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    line-height: 1.6rem;
+    font-size: 1.2rem;
+    text-align: left;
+    width: 35%;
+    margin-left: 3%;
+}
+
+.contactInfo p, .contactInfo address {
+    padding: 4% 0%;
+}
+
+#contact .contactContent .map {
+    width: 50%;
+}
+
+.contactContent .map img {
+    border: 1px solid gray;
+    padding: 2px;
+}
