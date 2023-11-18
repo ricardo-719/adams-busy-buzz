@@ -40,7 +40,7 @@ do_action( 'kids_education_page_section' ); ?>
         </nav><!-- .portfolio-filter -->
 
         <div class="">
-          <h2>SITE UNDER CONSTRUCTION</h2>
+          <h2>- SITE UNDER CONSTRUCTION -</h2>
         </div>
         <div id="contact">
 			<h2>Contact</h2>
