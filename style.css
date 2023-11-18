@@ -3536,7 +3536,7 @@ span.tags-links {
 #header-image {
     display: grid;
     max-height: 800px;
-    min-height: 225px;
+    min-height: 500px;
     overflow: hidden;
     background-color: #f7c652;
 }
@@ -6027,4 +6027,14 @@ nav.portfolio-filter ul li a,
 .contactContent .map img {
     border: 1px solid gray;
     padding: 2px;
+}
+
+.mainMenu {
+    font-family: 'Butterfly Kids', cursive;
+}
+.mainMenuAboutUs {
+    color: red;
+}
+.mainMenuContactUs {
+    color: blue;
 }

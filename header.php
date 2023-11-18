@@ -20,6 +20,9 @@
 	do_action( 'kids_education_doctype' );
 ?>
 <head>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Butterfly+Kids&display=swap" rel="stylesheet">
 <?php
 	/**
 	 * kids_education_before_wp_head hook
