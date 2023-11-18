@@ -47,7 +47,7 @@ do_action( 'kids_education_page_section' ); ?>
 			<br>
 			<div class="contactContent">
 				<div class="contactInfo">
-					<p>If you have any questions, issues, or feedback regarding the plugin, feel free to contact us.</p>
+					<p>If you have any questions, issues, or feedback, feel free to contact us.</p>
 					<p>e-mail: ricardoricardof@outlook.com</p>
 					<address>UBON RATCHATHANI, THAILAND</address>
 				</div>
