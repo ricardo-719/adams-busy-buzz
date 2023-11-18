@@ -6031,10 +6031,6 @@ nav.portfolio-filter ul li a,
 
 .mainMenu {
     font-family: 'Butterfly Kids', cursive;
-}
-.mainMenuAboutUs {
-    color: red;
-}
-.mainMenuContactUs {
-    color: blue;
+    font-size: 2.4rem;
+    font-weight: 700;
 }
